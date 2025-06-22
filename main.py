@@ -3,7 +3,7 @@ import datetime as dt
 import pandas
 import random
 import smtplib
-# The password and email don't work there are just placeholders. The program's logic does work though.
+# password and email don't work they are just placeholders. The program's logic does work though.
 MY_EMAIL = "email"
 PASSWORD = "blablabla"
 
