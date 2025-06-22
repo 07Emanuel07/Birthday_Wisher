@@ -1,4 +1,4 @@
-#  Emanuel Biruk Seifegebreal - 2024 --> Project for learning purposes
+#  Emanuel Biruk Seifegebreal - 2024 --> This project is for learning purposes
 import datetime as dt
 import pandas
 import random
